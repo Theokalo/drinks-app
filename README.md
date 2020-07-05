@@ -2,11 +2,11 @@
 
 <ul>
     <li>Clone the project</li>
-    <li>In the main directory run the command `npm install`</li>
-    <li>Then in the `backEnd` directory run again the command `npm install`</li>
-    <li>Next you need to import the database to your local server for example you can use `xampp`</li>
-    <li>Next you need to configure the `db.js` "drinks\backEnd\database\db.js with the credential of your database"</li>
-    <li>If everything is set in the main directory run the command `npm start` and in the backEnd directory run the command `nodemon server.js`</li>
+    <li>In the <b>main</b> directory run the command <b>npm install</b></li>
+    <li>Then in the <b>backEnd</b> directory run again the command <b>npm install</b></li>
+    <li>Next you need to import the database <b>drinks.sql</b> to your local server for example you can use <b>xampp</b></li>
+    <li>Next you need to configure the <b>db.js</b> <u><i>drinks\backEnd\database\db.js</i></u> with the credential of your database</li>
+    <li>If everything is set in the <b>main</b> directory run the command <b>npm start</b> and in the <b>backEnd</b> directory run the command <b>nodemon server.js</b></li>
 </ul>
 
 Runs the app in the development mode.<br />
